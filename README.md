@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Steveuschrist
 - 👀 I’m interested in narrative writing/design!
 - 💞️ I’m looking to collaborate on any sort of game project! 
-- 📫 How to reach me ...
+- 📫 Currently working on Bittersweet for the Panic Horror Jam! 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm double-jointed in my right thumb
 
 <!---
 Steveuschrist/Steveuschrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
