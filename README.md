@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Steveuschrist
+- 👋 Hi, I’m Steveuschrist
 - 👀 I’m interested in narrative writing/design!
 - 💞️ I’m looking to collaborate on any sort of game project! 
 - 📫 Currently working on a few game jams
